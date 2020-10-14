@@ -1,0 +1,19 @@
+.header{
+    background-color: aqua;
+    height: 150px
+}
+
+.section{
+    background-color:fuchsia;
+    height: 150px;
+    margin-top:15px;
+
+}
+
+.destaque{
+
+    background-color: orange;
+    height: 150px;
+    margin-top:15px;
+
+}
